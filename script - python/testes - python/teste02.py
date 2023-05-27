@@ -1,0 +1,6 @@
+nome = input('qual e o seu nome?')
+print('olá', nome, 'seja bem vindo queridão')
+peso = input('qual o seu peso?')
+print('está com', peso, 'kj , esta bem gordinho gostosinho')
+idade = input('qual a sua idade bunitão?')
+print('humm com', idade, 'esta no grau')
