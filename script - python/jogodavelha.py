@@ -10,7 +10,7 @@ def desenha_tabela(vetor_da_velha):
     return jogoDaVelha
 
 def verifica_tabela(vetor_da_velha, posicao):
-    resultado = Fdalse
+    resultado = False
     if(vetor_da_velha[posicao] == '_'):
         resultado = True
     return resultado
