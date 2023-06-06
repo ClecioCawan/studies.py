@@ -104,21 +104,21 @@ não um bom aproveitamento (se ficou acima da média 7.0). {--OK--}
 ÍMPAR. {--OK--}
 
 21) Faça um algoritmo que leia um determinado ano e mostre se ele é ou não
-BISSEXTO.
+BISSEXTO. {--OK--}
 
 22) Escreva um programa que leia o ano de nascimento de um rapaz e mostre a sua
 situação em relação ao alistamento militar.
 - Se estiver antes dos 18 anos, mostre em quantos anos faltam para o
 alistamento.
 - Se já tiver depois dos 18 anos, mostre quantos anos já se passaram do
-alistamento.
+alistamento. {--OK--}
 
 23) Numa promoção exclusiva para o Dia da Mulher, uma loja quer dar descontos
 para todos, mas especialmente para mulheres. Faça um programa que leia nome,
 sexo e o valor das compras do cliente e calcule o preço com desconto. Sabendo
 que:
 - Homens ganham 5% de desconto
-- Mulheres ganham 13% de desconto
+- Mulheres ganham 13% de desconto {--OK--}
 
 24) Faça um algoritmo que pergunte a distância que um passageiro deseja
 percorrer em Km. Calcule o preço da passagem, cobrando R$0.50 por Km para
