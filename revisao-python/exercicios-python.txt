@@ -163,10 +163,10 @@ de triângulo será formado:
 - ISÓSCELES: dois lados iguais
 - ESCALENO: todos os lados diferentes {--OK--}
 
-31) [DESAFIO] Crie um jogo de JoKenPo (Pedra-Papel-Tesoura)
+31) [DESAFIO] Crie um jogo de JoKenPo (Pedra-Papel-Tesoura) {--OK--}
 
 32) [DESAFIO] Crie um jogo onde o computador vai sortear um número entre 1 e 5 o
-jogador vai tentar descobrir qual foi o valor sorteado.
+jogador vai tentar descobrir qual foi o valor sorteado. {--OK--}
 
 33) Escreva um programa para aprovar ou não o empréstimo bancário para a compra
 de uma casa. O programa vai perguntar o valor da casa, o salário do comprador e
@@ -183,6 +183,7 @@ indivíduo dentro de certas faixas.
 - acima de 40: Obseidade mórbida
 Obs: O IMC é calculado pela expressão peso/altura² (peso dividido pelo quadrado
 da altura)
+
 35) Uma empresa de aluguel de carros precisa cobrar pelos seus serviços. O
 aluguel de um carro custa R$90 por dia para carro popular e R$150 por dia para
 carro de luxo. Além disso, o cliente paga por Km percorrido. Faça um programa
@@ -195,6 +196,7 @@ tabela a seguir:
 - Carros de luxo (aluguel de R$150 por dia)
 - Até 200Km percorridos: R$0,30 por Km
 - Acima de 200Km percorridos: R$0,25 por Km
+
 36) Um programa de vida saudável quer dar pontos atividades físicas que podem
 ser trocados por dinheiro. O sistema funciona assim:
 - Cada hora de atividade física no mês vale pontos
@@ -204,6 +206,7 @@ ser trocados por dinheiro. O sistema funciona assim:
 - A cada ponto ganho, o cliente fatura R$0,05 (5 centavos)
 Faça um programa que leia quantas horas de atividade uma pessoa teve por mês,
 calcule e mostre quantos pontos ela teve e quanto dinheiro ela conseguiu ganhar.
+
 37) Uma empresa precisa reajustar o salário dos seus funcionários, dando um
 aumento de acordo com alguns fatores. Faça um programa que leia o salário atual,
 o gênero do funcionário e há quantos anos esse funcionário trabalha na empresa.
@@ -278,14 +281,18 @@ d) Quantas pessoas que medem mais de 1.90m pesam mais de 100Kg.
 55) [DESAFIO] Vamos melhorar o jogo que fizemos no exercício 32. A partir de
 agora, o computador vai sortear um número entre 1 e 10 e o jogador vai ter 4
 tentativas para tentar acertar.
+
 PASSO 05 – ENQUANTO COM FLAG
+
 56) Crie um programa que leia vários números pelo teclado e mostre no final o
 somatório entre eles.
 Obs: O programa será interrompido quando o número 1111 for digitado
+
 57) Desenvolva um aplicativo que leia o salário e o sexo de vários funcionários.
 No final, mostre o total de salários pagos aos homens e o total pago às
 mulheres. O programa vai perguntar ao usuário se ele quer continuar ou não
 sempre que ler os dados de um funcionário.
+
 58) Faça um algoritmo que leia a idade de vários alunos de uma turma. O programa
 vai parar quando for digitada a idade 999. No final, mostre quantos alunos
 existem na turma e qual é a média de idade do grupo.
@@ -409,7 +416,9 @@ contendo apenas os dados das pessoas menores de idade.
 85) Faça um algoritmo que leia o nome, o sexo e o salário de 5 funcionários e
 guarde esses dados em três vetores. No final, mostre uma listagem contendo
 apenas os dados das funcionárias mulheres que ganham mais de R$5 mil.
+
 PASSO 09 – PROCEDIMENTOS
+
 86) Crie um programa que tenha um procedimento Gerador() que, quando chamado,
 mostre a mensagem "Olá, Mundo!" com algum componente visual (linhas)
 Ex: Ao chamar Gerador() aparece:
@@ -466,7 +475,9 @@ Obs: Use os exercícios 70 e 75 para te ajudar na solução
 Ex:
 Fibonacci(5) vai gerar 1 >> 1 >> 2 >> 3 >> 5 >> FIM
 Fibonacci(9) vai gerar 1 >> 1 >> 2 >> 3 >> 5 >> 8 >> 13 >> 21 >> 34 >> FIM
+
 PASSO 10 – FUNÇÕES
+
 95) Refaça o exercício 90, só que agora em forma de função Somador(), que vai
 receber dois parâmetros e vai retornar o resultado da soma entre eles para o
 programa principal.
