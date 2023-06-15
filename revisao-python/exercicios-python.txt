@@ -155,7 +155,7 @@ quantos anos ele trabalha na empresa e mostre seu novo salário, reajustado de
 acordo com a tabela a seguir:
 - Até 3 anos de empresa: aumento de 3%
 - entre 3 e 10 anos: aumento de 12.5%
-- 10 anos ou mais: aumento de 20%
+- 10 anos ou mais: aumento de 20% {--OK--}
 
 30) [DESAFIO] Refaça o algoritmo 25, acrescentando o recurso de mostrar que tipo
 de triângulo será formado:
@@ -171,7 +171,7 @@ jogador vai tentar descobrir qual foi o valor sorteado. {--OK--}
 33) Escreva um programa para aprovar ou não o empréstimo bancário para a compra
 de uma casa. O programa vai perguntar o valor da casa, o salário do comprador e
 em quantos anos ele vai pagar. Calcule o valor da prestação mensal, sabendo que
-ela não pode exceder 30% do salário ou então o empréstimo será negado.
+ela não pode exceder 30% do salário ou então o empréstimo será negado. {--OK--}
 
 34) O Índice de Massa Corpórea (IMC) é um valor calculado baseado na altura e no
 peso de uma pessoa. De acordo com o valor do IMC, podemos classificar o
@@ -182,7 +182,7 @@ indivíduo dentro de certas faixas.
 - entre 30 e 40: Obesidade
 - acima de 40: Obseidade mórbida
 Obs: O IMC é calculado pela expressão peso/altura² (peso dividido pelo quadrado
-da altura)
+da altura) {--OK--}
 
 35) Uma empresa de aluguel de carros precisa cobrar pelos seus serviços. O
 aluguel de um carro custa R$90 por dia para carro popular e R$150 por dia para
@@ -195,7 +195,7 @@ tabela a seguir:
 - Acima de 100Km percorridos: R$0,10 por Km
 - Carros de luxo (aluguel de R$150 por dia)
 - Até 200Km percorridos: R$0,30 por Km
-- Acima de 200Km percorridos: R$0,25 por Km
+- Acima de 200Km percorridos: R$0,25 por Km {--OK--}
 
 36) Um programa de vida saudável quer dar pontos atividades físicas que podem
 ser trocados por dinheiro. O sistema funciona assim:
@@ -205,7 +205,7 @@ ser trocados por dinheiro. O sistema funciona assim:
 - acima de 20h de atividade no mês: ganha 10 pontos por hora
 - A cada ponto ganho, o cliente fatura R$0,05 (5 centavos)
 Faça um programa que leia quantas horas de atividade uma pessoa teve por mês,
-calcule e mostre quantos pontos ela teve e quanto dinheiro ela conseguiu ganhar.
+calcule e mostre quantos pontos ela teve e quanto dinheiro ela conseguiu ganhar. {--OK--}
 
 37) Uma empresa precisa reajustar o salário dos seus funcionários, dando um
 aumento de acordo com alguns fatores. Faça um programa que leia o salário atual,
@@ -218,7 +218,7 @@ No final, mostre o seu novo salário, baseado na tabela a seguir:
 - Homens
 - menos de 20 anos de empresa: +3%
 - de 20 até 30 anos de empresa: +13%
-- mais de 30 anos de empresa: +25%
+- mais de 30 anos de empresa: +25% {--OK--}
 
 PASSO 04 – REPETIÇÕES ENQUANTO
 
@@ -309,53 +309,66 @@ b) O nome da mulher mais jovem
 c) A média de idade do grupo
 d) Quantos homens tem mais de 30 anos
 e) Quantas mulheres tem menos de 18 anos
+
 PASSO 06 – REPETIÇÃO COM FAÇA ENQUANTO
+
 61) Crie um programa que mostre na tela a seguinte contagem, usando a estrutura
 “faça enquanto”
-0 3 6 9 12 15 18 21 24 27 30 Acabou!
+0 3 6 9 12 15 18 21 24 27 30 Acabou! 
+
 62) Faça um programa usando a estrutura “faça enquanto” que leia a idade de
 várias pessoas. A cada laço, você deverá perguntar para o usuário se ele quer ou
 não continuar a digitar dados. No final, quando o usuário decidir parar, mostre
 na tela:
 a) Quantas idades foram digitadas
 b) Qual é a média entre as idades digitadas
-c) Quantas pessoas tem 21 anos ou mais.
+c) Quantas pessoas tem 21 anos ou mais. 
+
 63) Crie um programa usando a estrutura “faça enquanto” que leia vários números.
 A cada laço, pergunte se o usuário quer continuar ou não. No final, mostre na
 tela:
 a) O somatório entre todos os valores
 b) Qual foi o menor valor digitado
 c) A média entre todos os valores
-d) Quantos valores são pares
-PASSO 07 – REPETIÇÃO COM PARA
+d) Quantos valores são pares 
+
+PASSO 07 – REPETIÇÃO COM FOR
+
 64) Desenvolva um programa usando a estrutura “para” que mostre na tela a
 seguinte contagem:
-0 5 10 15 20 25 30 35 40 Acabou!
+0 5 10 15 20 25 30 35 40 Acabou! {--OK--}
+
 65) Desenvolva um programa usando a estrutura “para” que mostre na tela a
 seguinte contagem:
-100 90 80 70 60 50 40 30 20 10 0 Acabou!
+100 90 80 70 60 50 40 30 20 10 0 Acabou! {--OK--}
+
 66) Escreva um programa que leia um número qualquer e mostre a tabuada desse
 número, usando a estrutura “para”.
 Ex: Digite um valor: 5
 5 x 1 = 5
 5 x 2 = 10
-5 x 3 = 15 ...
+5 x 3 = 15 ... {--OK--}
+
 67) Faça um programa usando a estrutura “para” que leia um número inteiro
 positivo e mostre na tela uma contagem de 0 até o valor digitado:
 Ex: Digite um valor: 9
-Contagem: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, FIM!
+Contagem: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. {--OK--}
+
 68) Crie um programa que leia sexo e peso de 8 pessoas, usando a estrutura
 “para”. No final, mostre na tela:
 a) Quantas mulheres foram cadastradas
 b) Quantos homens pesam mais de 100Kg
 c) A média de peso entre as mulheres
-d) O maior peso entre os homens
+d) O maior peso entre os homens {--OK--}
+
 69) [DESAFIO] Desenvolva um programa que leia o primeiro termo e a razão de uma
 PA (Progressão Aritmética), mostrando na tela os 10 primeiros elementos da PA e
 a soma entre todos os valores da sequência.
+
 70) [DESAFIO] Faça um programa que mostre os 10 primeiros elementos da Sequência
 de Fibonacci:
 1 1 2 3 5 8 13 21...
+
 PASSO 08 – VETORES
 71) Faça um programa que preencha automaticamente um vetor numérico com 8
 posições, conforme abaixo:
